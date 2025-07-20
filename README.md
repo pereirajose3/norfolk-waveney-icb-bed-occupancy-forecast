@@ -10,7 +10,6 @@ Using historical NHS bed occupancy data, I applied both **Prophet** and **SARIMA
 
 - Exploratory analysis of overnight hospital bed occupancy
 - Forecasting using:
-  - **Facebook Prophet**
   - **Seasonal ARIMA (SARIMA)**
 - Visual comparison of model results
 - Evaluation using error metrics 
