@@ -5,7 +5,7 @@ This project explores the use of **time series forecasting** to predict the numb
 Using historical NHS bed occupancy data, I applied **SARIMA** model to identify seasonal patterns, trends, and forecast future demand. The objective is to support **capacity planning** and **resource allocation** at the regional level.
 
 ---
-
+ 
 ## What’s included
 
 - Exploratory analysis of overnight hospital bed occupancy
