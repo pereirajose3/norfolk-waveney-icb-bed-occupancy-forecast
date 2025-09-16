@@ -1,4 +1,4 @@
-# Norfolk and Waveney ICB Bed Occupancy Forecast
+# Norfolk and Waveney ICB Bed Occupancy Forecast 
 
 This project explores the use of **time series forecasting** to predict the number of **hospital beds occupied overnight** across the Norfolk and Waveney Integrated Care Board (ICB). 
 
