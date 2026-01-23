@@ -16,7 +16,7 @@ Using historical NHS bed occupancy data, I applied **SARIMA** model to identify 
 
 ---
 
-## Data Source
+## Data Source 
 
 NHS England:  
 **Bed Availability and Occupancy Data**  
