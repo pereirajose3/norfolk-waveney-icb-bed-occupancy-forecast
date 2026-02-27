@@ -10,7 +10,7 @@ Using historical NHS bed occupancy data, I applied **SARIMA** model to identify 
 
 - Exploratory analysis of overnight hospital bed occupancy
 - Forecasting using:
-  - **Seasonal ARIMA (SARIMA)**
+  - **Seasonal ARIMA (SARIMA)** 
 - Visual comparison of model results
 - Evaluation using error metrics 
 
